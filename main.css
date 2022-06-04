@@ -1,0 +1,18 @@
+
+.upper-text {
+    color: #2c286d;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+    padding: 0px;
+    padding-right: 5px;
+}
+
+.down-text {
+    color: #a92b3f;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
